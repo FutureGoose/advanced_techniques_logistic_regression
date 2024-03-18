@@ -4,3 +4,7 @@ seaborn==0.13.2
 matplotlib==3.8.3
 scikit-learn==1.4.1
 statsmodels==0.14.1
+folium==0.16.0
+plotly==5.19.0
+category_encoders==2.6.3
+scipy==1.11.4
