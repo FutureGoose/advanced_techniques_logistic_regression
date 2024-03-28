@@ -7,7 +7,7 @@ This project, part 2 in a series exploring the fundamentals of logistic regressi
 - **Thorough Data Preprocessing**: Demonstrates best practices in data cleaning, including handling missing values, removing duplicates, and feature engineering.
 - **Exploratory Data Analysis (EDA)**: Uncovers insightful trends in cancellations by country, month, and hotel type, guiding feature selection and model development.
 - **Model Building and Tuning**: Constructs and fine-tunes logistic regression and random forest models using `sklearn`, optimizing performance through hyperparameter tuning.
-- **Comprehensive Evaluation**: Employs a range of evaluation metrics, including confusion matrices, ROC-AUC analysis, and precision-recall curves, to assess model performance and inform selection.
+- **Comprehensive Evaluation**: Employs a range of evaluation metrics, including confusion matrices and ROC-AUC analysis, to assess model performance and inform selection.
 
 ## Key Concepts
 - Understanding the business impact of cancellations and the value of predictive modeling in the hospitality industry.
